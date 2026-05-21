@@ -314,7 +314,7 @@ const CONTENT = {
         desc:  "Building proficiency in the use of AI tools to solve DeFi problems and support developer-focused teams.",
       },
       {
-        num:   "03"
+        num:   "03",
         title: "Community Analytics & Data",
         desc:  "Building fluency in community data tools tracking engagement, retention, and developer activity metrics to make growth decisions quantifiable.",
       },
