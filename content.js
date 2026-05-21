@@ -47,7 +47,7 @@ const CONTENT = {
     title: "Work and Impact",
     roles: [
       {
-        period:   "2024 – 2025",
+        period:   "2024 – present",
         badge:    "Most Recent",
         role:     "Lead Community Moderator",
         org:      "Mezo Network",
