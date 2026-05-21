@@ -26,13 +26,13 @@ const CONTENT = {
     label: "about",
     title: "Bridging builders and ecosystems.",
     paragraphs: [
-      "I'm a Developer Relations professional specializing in Web3 ecosystem growth, developer onboarding, and community-led education. With over three years embedded in fast-scaling blockchain protocols, I've built the instincts to understand what developers and power users need — and the communication skills to deliver it clearly.",
+      "I'm a Developer Relations professional specializing in Web3 ecosystem growth, developer onboarding, and community-led education. With over three years experience in fast-scaling blockchain protocols, I've built the instincts to understand what developers and power users need and the communication skills to deliver it clearly.",
       "My work sits at the intersection of technical understanding, community architecture, and product feedback loops. I've served as the first line of clarity when protocols launch, turning confused early adopters into confident contributors.",
-      "At Mezo Network, I helped establish the community infrastructure from the ground up — security systems, support protocols, onboarding campaigns, and a creator sub-community that remains Mezo's strongest voice on social platforms.",
-      "I hold an IELTS band score of 8.5, placing me in the top 5% of test-takers globally — a reflection of the precision I bring to both written documentation and live developer communication.",
+      "At Mezo Network,I helped aspiring contributors understand the community's pain points and how best to meet their needs. I also established an ambassadorship program with a team of over 100 creative contributors that have remained Mezo's strongest voices on social platforms showing my proficiency in people management and ability to drive contributors towards the community's goals.",
+      "I hold an IELTS band score of 8.5, placing me in the top 5% of test-takers globally a reflection of the precision I bring to both written documentation and live developer communication.",
     ],
     stats: [
-      { value: "3",   suffix: "+",  animated: true,  label: "Years in Web3" },
+      { value: "3.5",   suffix: "+",  animated: true,  label: "Years in Web3" },
       { value: "8.5", suffix: "",   animated: true,  label: "IELTS Band Score" },
       { value: "5",   suffix: "+",  animated: true,  label: "Ecosystems Supported" },
       { value: "∞",   suffix: "",   animated: false, label: "Community Threads Resolved" },
@@ -53,43 +53,43 @@ const CONTENT = {
         org:      "Mezo Network",
         org_url:  "https://mezo.org",
         featured: true,
-        desc:     "Served as the primary community touchpoint during Mezo's growth phase — a BitcoinFi protocol building Bitcoin-native financial infrastructure. Owned the full community operations lifecycle from launch through scaling.",
+        desc:     "Served as the primary community touchpoint during Mezo's growth phase, a BitcoinFi protocol building Bitcoin-native financial infrastructure. Supported the full community operations lifecycle from launch through scaling.",
         bullets: [
           "Provided prompt customer support by replicating user problems to identify root causes and deliver precise, documented solutions",
           "Created detailed walkthroughs and guides based on recurring user queries, reducing repeat support volume",
           "Escalated critical issues clearly and promptly, acting as liaison between users, the core team, and community contributors",
-          "Managed the community creator team — sourcing, onboarding, and motivating contributors who became Mezo's strongest ecosystem voices",
-          "Established and enforced community safety standards, maintaining a high-trust, high-engagement environment",
+          "Managed the community creator team sourcing, onboarding, and motivating contributors who became Mezo's strongest ecosystem voices",
+          "Enforced community safety standards, maintaining a high-trust, high-engagement environment",
         ],
         tags: ["BitcoinFi", "Developer Onboarding", "Community Ops", "Technical Support", "Creator Programs"],
       },
       {
         period:   "2024 – 2025",
         badge:    "",
-        role:     "Support Team Member",
+        role:     "Support Associate",
         org:      "Superposition",
         org_url:  "#",
         featured: false,
-        desc:     "Embedded within a fast-moving product team as a support specialist, with emphasis on developer and power-user feedback translation.",
+        desc:     "Worked within a fast-moving product team as a support specialist, with emphasis on developer and power-user feedback translation.",
         bullets: [
           "Stayed attentive to user complaints and escalated promptly using Trello and BetterStack to prioritize by urgency",
           "Reported structured product feedback and catalogued recurring feature requests for the engineering team",
           "Participated in alpha testing of new product features, matching observed bugs against documented user pain points",
         ],
-        tags: ["Alpha Testing", "Product Feedback", "Trello", "BetterStack"],
+        tags: ["Alpha Testing", "Product Feedback", "support flow", "BetterStack"],
       },
       {
         period:   "2024 – early 2025",
         badge:    "",
-        role:     "Support Member → Executive Secretary",
+        role:     "Support Member (Executive Secretary)",
         org:      "Acre BTC",
         org_url:  "#",
         featured: false,
-        desc:     "Started in a support role and was promoted to Executive Secretary — taking on operational oversight of the community support structure.",
+        desc:     "Started in a support role and was promoted to Executive Secretary taking on operational oversight of the community onboarding and contributor structure.",
         bullets: [
-          "Worked alongside the community manager to design efficient support protocols using Mava",
+          "Worked alongside the community manager to design efficient onboarding protocols for contributors including documentations and support triage systemsusing Mava",
           "Introduced escalation and prioritization workflows, reducing response time for critical issues",
-          "Created tutorial documentation and educational articles to improve user self-service",
+          "Created tutorial documentation and educational articles to improve user contributor self-sufficiency and reduce repeat queries",
         ],
         tags: ["Mava", "Support Protocols", "Documentation", "Bitcoin Ecosystem"],
       },
@@ -100,11 +100,11 @@ const CONTENT = {
         org:      "Taho Wallet",
         org_url:  "#",
         featured: false,
-        desc:     "Managed the Discord community for a self-custodial Web3 wallet, supporting both new and experienced crypto users through DeFi literacy and wallet troubleshooting.",
+        desc:     "Managed the Discord community for a self-custodial Web3 wallet, supporting both new and experienced crypto users through DeFi literacy and blockchain troubleshooting.",
         bullets: [
           "Provided timely user support and maintained an engaging, welcoming community environment",
-          "Initiated topic-led conversations around DeFi trends and emerging ecosystem tools",
-          "Created detailed walkthroughs from recurring user problems — replicating issues firsthand before documenting solutions",
+          "Initiated conversations around DeFi trends and emerging ecosystem tools",
+          "Created detailed walkthroughs from recurring user problems replicating issues firsthand before documenting solutions",
         ],
         tags: ["DeFi Education", "Discord Ops", "Wallet Support"],
       },
@@ -115,7 +115,7 @@ const CONTENT = {
         org:      "Saddle Finance",
         org_url:  "#",
         featured: false,
-        desc:     "First ecosystem role — owned community operations for a DeFi protocol, building the foundation for the support and moderation skills developed in later roles.",
+        desc:     "First ecosystem role owned community operations for a DeFi protocol, building the foundation for the growth and support skills developed in later roles.",
         bullets: [
           "Provided timely user support and maintained a high-engagement community environment",
           "Shared articles and simple animations to boost product visibility and onboard new users",
@@ -131,41 +131,40 @@ const CONTENT = {
   //  DEVREL SKILLS
   // ─────────────────────────────────────────────────────────
   skills: {
-    label: "devrel skills",
+    label: "devrel competencies",
     title: "What I bring to the table.",
     blocks: [
       {
-        icon:  "⚙️",
+  
         title: "Developer Support & Documentation",
         desc:  "Experienced in replicating user and developer problems firsthand to understand root causes. Produced structured FAQs, step-by-step walkthroughs, and onboarding guides using Coda and Google Docs. Tools: Mava, Trello, BetterStack.",
       },
       {
-        icon:  "₿",
+        
         title: "Blockchain & Protocol Knowledge",
         desc:  "3+ years navigating DeFi and BitcoinFi ecosystems including DEXes, lending markets, prediction markets, perp platforms, and Bitcoin-native applications. Capable of understanding, replicating, and explaining complex protocol mechanics clearly.",
       },
       {
-        icon:  "🏗️",
-        title: "Community Platform Operations",
-        desc:  "Launched and scaled multiple Discord communities — designing channel structures, security configurations, bot integrations, support tiers, and contributor pipelines. Experience onboarding thousands of users into complex protocol environments.",
+        
+        title: "AI Fluency",
+        desc:  "Efficient use of AI tools in building problem-solving community tools, tracking and analyzing community feedback data, and producing educational content. Experienced with Claude, Codex, and custom bot integrations for Discord and community platforms.",
       },
       {
-        icon:  "🎙️",
         title: "Technical Communication",
         desc:  "IELTS 8.5 (top 5% globally). Skilled at translating complex Web3 concepts into clear, accessible language for audiences ranging from crypto natives to first-time users. Experienced in written guides, live moderation, and educational content.",
       },
       {
-        icon:  "📢",
-        title: "Developer Feedback Loops",
-        desc:  "Collected, categorized, and escalated product feedback from users and community members to core engineering and product teams. Participated in alpha testing, matching bugs to prior user-reported pain points with documented solutions.",
+        
+        title: "Content Creation & Education",
+        desc:  "Fluent public speaker with long-term experience in creating educational content for diverse audiences. Produced written and visual explainers on DeFi mechanics, AI applications in DeFi, BitcoinFi applications, and ecosystem navigation. Contents were designed to reduce friction for developers and users entering the space for the first time. 10K+ followers across Twitter, Instagram and Tiktok.",
       },
       {
-        icon:  "⚡",
+        
         title: "Ecosystem & Partnership Growth",
         desc:  "Managed cross-community collaborations, co-hosted ecosystem events, and built creator programs that expanded protocol reach. Experience coordinating with BD, marketing, and product teams on aligned go-to-market activations.",
       },
     ],
-    tools:     ["Discord", "Mava", "Trello", "BetterStack", "Coda", "Google Docs", "Twitter/X", "Notion"],
+    tools:     ["Claude", "Codex","github", "Mava", "Trello", "BetterStack", "Coda", "Google sheets", "Twitter/X", "Notion"],
     technical: ["Bot Integrations", "Workflow Automations", "Data Analysis", "Content Creation", "Event Hosting", "Public Speaking"],
     soft:      ["Effective Communication", "Crisis Management", "Attentiveness", "Service-Oriented Leadership", "Empathy", "Problem Solving"],
   },
@@ -179,25 +178,25 @@ const CONTENT = {
     items: [
       {
         tags:      ["Mezo Network", "Community Architecture"],
-        title:     "Building Mezo's Community Infrastructure From Zero",
+        title:     "Supporting Mezo's Community Infrastructure From Zero",
         featured:  true,
-        challenge: "Mezo Network needed a fully operational, secure, and engaging community before its protocol went live — with no existing playbook for a Bitcoin-native DeFi community.",
-        action:    "Designed the Discord server architecture from scratch — channels, roles, security systems, and support tiers. Created onboarding documentation for new users arriving through multiple campaign funnels. Built and managed a creator sub-community to generate authentic, organic protocol content on X (Twitter).",
-        result:    "A high-trust, active community that sustained engagement through protocol milestones. The creator network continues to operate as one of the most recognized Mezo voices across Web3 social platforms.",
+        challenge: "Mezo Network needed a fully operational, secure, and engaging community before its protocol went live  with little existing playbook for a Bitcoin-native DeFi community.",
+        action:    "Supported in designing the Discord server architecture from scratch  channels, roles, security systems, and support tiers. Created onboarding documentation for new users and contributors arriving through multiple campaign funnels. Built and managed a sub-community of ambassadors to generate authentic, organic protocol content on X (Twitter).",
+        result:    "A high-trust, active community that sustained engagement through protocol milestones.",
       },
       {
         tags:      ["Acre BTC", "Support Ops"],
-        title:     "Designing a Scalable Support Protocol with Mava",
+        title:     "Enforcing seamless contributor onboarding and Scalable Support Protocol with Mava",
         featured:  false,
         challenge: "Acre BTC's support volume was outpacing its team's capacity, with no structured escalation system in place.",
-        action:    "Partnered with the community manager to build a tiered support system using Mava — tagging issues by urgency, routing them to the right team member, and closing feedback loops with documented resolutions.",
-        result:    "Faster resolution times for critical issues, a reusable escalation framework, and tutorial documentation that reduced repeat queries.",
+        action:    "Created detailed FAQs and documentations based on previous queries and Partnered with the community manager to build a tiered support system using Mava tagging issues by urgency, routing them to the right team member, and closing feedback loops with documented resolutions.",
+        result:    "streamlined contributor onboarding and faster resolution times for critical issues, a reusable escalation framework, and tutorial documentation that reduced repeat queries.",
       },
       {
         tags:      ["Superposition", "Alpha Testing"],
         title:     "Closing the Feedback Loop Between Users and Product",
         featured:  false,
-        challenge: "The engineering team needed structured, prioritized user feedback — not a raw dump of complaints — to make informed product decisions.",
+        challenge: "The engineering team needed structured, prioritized user feedback not a raw dump of complaints to make informed product decisions.",
         action:    "Used BetterStack uptime monitoring alongside Trello to triage, categorize, and escalate bugs and feature requests in order of user impact. Participated in alpha testing by replicating reported issues to confirm and document reproducible steps.",
         result:    "Engineering received actionable, prioritized feedback. Several recurring feature requests made it into product roadmap discussions based on my documented findings.",
       },
@@ -207,7 +206,7 @@ const CONTENT = {
         featured:  false,
         challenge: "New users were repeatedly encountering the same wallet and DeFi interaction errors, flooding support with identical questions.",
         action:    "Replicated each common error firsthand, mapped the user's mental model, and produced step-by-step visual walkthroughs pinned in the community. Initiated topic-led discussions around DeFi trends to proactively educate before problems occurred.",
-        result:    "Reduced repetitive support volume and a more confident, self-sufficient user base — especially among first-time DeFi users.",
+        result:    "Reduced repetitive support volume and a more confident, self-sufficient user base especially among first-time DeFi users.",
       },
     ],
   },
@@ -223,10 +222,10 @@ const CONTENT = {
     demo_articles: [
       {
         gradient: "linear-gradient(135deg, #4facfe 0%, #00d4ff 100%)",
-        platform: "Mirror",
+        platform: "Substack",
         date:     "Mar 2025",
         title:    "Building Developer Communities in BitcoinFi: Lessons from Mezo",
-        excerpt:  "What I learned designing a Bitcoin-native Discord community from zero — channels, roles, security systems, and creator networks that lasted.",
+        excerpt:  "What I learned designing a Bitcoin-native Discord community from zero channels, roles, security systems, and creator networks that lasted.",
         href:     "#",
       },
       {
@@ -256,13 +255,13 @@ const CONTENT = {
       {
         type:  "Educational Series",
         title: "DeFi & BitcoinFi Explainers",
-        desc:  "Written and visual explainers covering lending markets, DEX mechanics, Bitcoin-native applications, and ecosystem navigation — designed to reduce friction for developers and users entering the BitcoinFi space for the first time.",
+        desc:  "Written and visual explainers covering lending markets, DEX mechanics, Bitcoin-native applications, and ecosystem navigation designed to reduce friction for developers and users entering the BitcoinFi space for the first time.",
         meta:  "Platforms: Twitter/X, Discord, TikTok",
       },
       {
         type:  "Onboarding Campaigns",
         title: "Structured Onboarding Flows",
-        desc:  "Designed multi-step onboarding journeys for protocol launches — combining welcome sequences, role-gating, documentation links, and community touchpoints to move users from discovery to active participation.",
+        desc:  "Designed multi-step onboarding journeys for protocol launches combining welcome sequences, role-gating, documentation links, and community touchpoints to move users from discovery to active participation.",
         meta:  "Tools: Discord bots, Mava, custom automation",
       },
       {
@@ -301,28 +300,28 @@ const CONTENT = {
   // ─────────────────────────────────────────────────────────
   learning: {
     label: "currently learning",
-    title: "Always deepening the stack.",
+    title: "Reinforcing core capabilities.",
     intro: "DevRel requires staying ahead of the curve. Here's where I'm investing my learning time:",
     items: [
       {
         num:   "01",
-        title: "Bitcoin Script & OP_RETURN",
-        desc:  "Deepening my technical understanding of Bitcoin's programmability — relevant as BitcoinFi matures and developer tooling expands.",
+        title: "Bitcoin Script & OpCodes",
+        desc:  "Deepening my technical understanding of Bitcoin's programmability relevant as BitcoinFi matures and developer tooling expands.",
       },
       {
         num:   "02",
-        title: "Technical Writing for Developer Docs",
-        desc:  "Studying documentation standards used by leading developer-focused teams — Stripe, Vercel, and Uniswap — to elevate the quality of my written output.",
+        title: "AI assissted Programming & Prompt Engineering",
+        desc:  "Building proficiency in the use of AI tools to solve DeFi problems and support developer-focused teams.",
       },
       {
         num:   "03",
         title: "Community Analytics & Data",
-        desc:  "Building fluency in community data tools — tracking engagement, retention, and developer activity metrics to make growth decisions quantifiable.",
+        desc:  "Building fluency in community data tools tracking engagement, retention, and developer activity metrics to make growth decisions quantifiable.",
       },
       {
         num:   "04",
-        title: "Smart Contract Fundamentals",
-        desc:  "Developing a working understanding of how smart contracts are structured and deployed — so I can converse confidently with developers building on BitcoinFi protocols.",
+        title: "AI assissted automations",
+        desc:  "Building automated tools that meet the needs of users and developers building on BitcoinFi protocols.",
       },
     ],
   },
@@ -333,12 +332,12 @@ const CONTENT = {
   contact: {
     label:        "contact",
     title:        "Let's build something together.",
-    body:         "I'm currently open to Developer Relations, Ecosystem Growth, Developer Advocacy, and Developer Experience roles — particularly in BitcoinFi and emerging Web3 ecosystems. If you're building in this space and want someone who understands both the technical landscape and the human side of adoption, let's talk.",
-    availability: "Available for full-time DevRel roles — open to remote and ecosystem-specific contracts",
+    body:         "I'm currently open to Developer Relations, Ecosystem Growth, Developer Advocacy, and Developer Experience roles particularly in BitcoinFi and emerging Web3 ecosystems. If you're building in this space and want someone who understands both the technical landscape and the human side of adoption, let's talk.",
+    availability: "Available for full-time DevRel roles open to remote and ecosystem-specific contracts",
     links: [
       { icon: "✉",  label: "kheity16@gmail.com", href: "mailto:kheity16@gmail.com" },
-      { icon: "𝕏",  label: "Twitter / X",         href: "https://twitter.com" },
-      { icon: "in", label: "LinkedIn",             href: "https://linkedin.com" },
+      { icon: "𝕏",  label: "Twitter / X",         href: "https://x.com/defi_judy" },
+      { icon: "in", label: "LinkedIn",             href: "https://www.linkedin.com/in/raluchukwu-judith-15534a235/" },
     ],
   },
 
@@ -346,7 +345,7 @@ const CONTENT = {
   //  FOOTER
   // ─────────────────────────────────────────────────────────
   footer: {
-    copy:    "judy. © 2025",
+    copy:    "Defi-Judy.2026",
     tagline: "Developer Relations · Web3 · BitcoinFi",
   },
 
