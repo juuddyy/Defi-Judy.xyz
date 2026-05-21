@@ -285,7 +285,7 @@ const CONTENT = {
       { value: "100", suffix: "k+", animated: true,  label: "Users and developers Onboarded across various ecosystems" },
     ],
     narrative_title: "The Mezo Creator Network",
-    narrative:       "One of my most impactful projects at Mezo was identifying, recruiting, and building a sub-community of ecosystem creators individuals who were already passionate about the Mezo thesis and could articulate it authentically. I onboarded, briefed, and coordinated this group, equipping them with the technical context needed to produce high-quality content independently. This network still actively represents Mezo across X and other platforms, tracked and validated through on-chain analytics platforms. It's a compounding DevRel asset: organic, credible, and community-owned.",
+    narrative:       "One of my most impactful projects at Mezo was identifying, recruiting, and building a sub-community of ecosystem creators, individuals who were already passionate about the Mezo thesis and could articulate it authentically. I onboarded, briefed, and coordinated this group, equipping them with the technical context needed to produce high-quality content independently. This network still actively represents Mezo across X and other platforms, tracked and validated through on-chain analytics platforms. It's a compounding DevRel asset: organic, credible, and community-owned.",
     ecosystems: [
       { color: "orange", name: "Mezo Network",   desc: "BitcoinFi protocol, Bitcoin-native financial infrastructure" },
       { color: "blue",   name: "Acre BTC",       desc: "Bitcoin staking and yield protocol" },
