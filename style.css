@@ -456,6 +456,7 @@ ul { list-style: none; }
   flex-direction: column;
   gap: 8px;
   padding-top: 18px;
+  padding-right: 20px;
   text-align: right;
 }
 .timeline-period {
