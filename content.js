@@ -335,7 +335,7 @@ const CONTENT = {
     body:         "I'm currently open to Developer Relations, Ecosystem Growth, Developer Advocacy, and Developer Experience roles particularly in BitcoinFi and emerging Web3 ecosystems. If you're building in this space and want someone who understands both the technical landscape and the human side of adoption, let's talk.",
     availability: "Available for full-time DevRel roles open to remote and ecosystem-specific contracts",
     links: [
-      { icon: "✉",  label: "kheity16@gmail.com", href: "mailto:kheity16@gmail.com" },
+      { icon: "✉",  label: "raluchukwujudith@gmail.com", href: "mailto:raluchukwujudith@gmail.com" },
       { icon: "𝕏",  label: "Twitter / X",         href: "https://x.com/defi_judy" },
       { icon: "in", label: "LinkedIn",             href: "https://www.linkedin.com/in/raluchukwu-judith-15534a235/" },
     ],
